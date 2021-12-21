@@ -8,4 +8,4 @@ HTML, CSS, JAVASCRIPT
 
 3. 사이트
 <a href="https://backtotetris.netlify.app/"> Tetris 하기 </a>
-
+![1](https://user-images.githubusercontent.com/39179946/146952852-0df80248-17ef-4009-bf0d-5612bfaae035.JPG)
